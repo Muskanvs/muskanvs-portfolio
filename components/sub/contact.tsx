@@ -108,7 +108,7 @@ export const ContactSection = () => {
         </form>
       </div>
 
-      {/* Background (optional) */}
+      {/* Background (optional) 
       <div className="absolute inset-0 -z-10">
         <video
           loop
@@ -120,7 +120,9 @@ export const ContactSection = () => {
         >
           <source src="/videos/contact-bg.webm" type="video/webm" />
         </video>
+        
       </div>
+      */}
     </div>
   );
 };
