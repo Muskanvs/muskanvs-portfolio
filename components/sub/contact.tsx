@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { motion } from "framer-motion";
 import { slideInFromTop } from "@/lib/motion";
 import { FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
@@ -25,9 +26,9 @@ export const ContactSection = () => {
       <div className="flex flex-col md:flex-row w-[90%] md:w-[70%] justify-between items-center bg-transparent backdrop-blur-md mt-10 p-8 rounded-2xl shadow-lg text-white z-10">
         {/* Contact Info */}
         <div className="flex flex-col space-y-6 w-full md:w-1/2">
-          <h2 className="text-2xl font-bold">Let's Talk</h2>
+          <h2 className="text-2xl font-bold">Let&apos;s Talk</h2>
           <p className="text-gray-300 text-sm">
-            Feel free to reach out if you're looking for a developer, have a
+            Feel free to reach out if you&apos;re looking for a developer, have a
             question, or just want to connect.
           </p>
 

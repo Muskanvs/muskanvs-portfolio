@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { Points, PointMaterial } from "@react-three/drei";
 import { Canvas, type PointsProps, useFrame } from "@react-three/fiber";
 import * as random from "maath/random";
@@ -20,7 +21,7 @@ export const StarBackground = (props: PointsProps) => {
   });
 
   return (
-    <group rotation={[0, 0, Math.PI / 4]}>
+    <group rotation={[0, 0, Math.PI / 4] as [number, number, number]}>
       <Points
         ref={ref}
         stride={3}

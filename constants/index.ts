@@ -1,11 +1,6 @@
-import { FaYoutube, FaFacebook } from "react-icons/fa";
-import { SiLeetcode,SiGeeksforgeeks } from "react-icons/si";
-import { ExperienceSection } from "@/components/sub/ExperienceSection";
+import { SiLeetcode, SiGeeksforgeeks } from "react-icons/si";
 import {
-  RxDiscordLogo,
   RxGithubLogo,
-  RxInstagramLogo,
-  RxTwitterLogo,
   RxLinkedinLogo,
 } from "react-icons/rx";
 
