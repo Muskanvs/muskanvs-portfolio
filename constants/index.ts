@@ -54,7 +54,7 @@ export const SOCIALS = [
   {
     name: "Linkedin",
     icon: RxLinkedinLogo,
-    link: "www.linkedin.com/in/vadla-shaik-muskan-567837278",
+    link: "https://www.linkedin.com/in/vadla-shaik-muskan-567837278/",
   },
   {
     name: "Github",
