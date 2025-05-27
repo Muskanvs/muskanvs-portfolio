@@ -92,12 +92,7 @@ export const FRONTEND_SKILL = [
     width: 65,
     height: 65,
   },
-  {
-    skill_name: "jquery",
-    image: "jquery.png",
-    width: 80,
-    height: 80,
-  },
+
  
   {
     skill_name: "React",
