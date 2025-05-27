@@ -50,7 +50,7 @@ export const HeroContent = () => {
         </motion.p>
 
        <motion.a
-  href="https://drive.google.com/uc?export=download&id=1U4CPfhc-zYL8Tp1YdfjynbQ-qXULGg2v"
+  href="https://drive.google.com/uc?export=download&id=1SoBYb27AqTik-47U4JOe-jKHuQw3739z"
   target="_blank"
   rel="noopener noreferrer"
   variants={slideInFromLeft(1)}
