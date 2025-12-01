@@ -203,6 +203,18 @@ type Project = {
   technologies?: string[]; // optional
 };
 export const PROJECTS: Project[] = [ 
+ {
+    title: " Email AI Reply Generator ",
+    description:
+      'Developed an Email AI Reply Generator using Spring Boot, React, and a Chrome Extension integrated
+with Gmail to produce AI-based email responses. Built the end-to-end workflow where the extension
+captures email content and communicates with backend REST APIs to generate replies in real time.
+Implemented backend logic, frontend UI, and seamless Gmail integration to deliver a fast and interactive
+user experience.',
+    image: "/skills/AI_Reply_Generated_In_GMAIL.png",
+    link: "https://github.com/Muskanvs/Email_AIReply_generator",
+  technologies: ["React", "GoogleAPI","SpringBoot"]
+  },
   {
     title: " GEETHA COMPUTERS ",
     description:
