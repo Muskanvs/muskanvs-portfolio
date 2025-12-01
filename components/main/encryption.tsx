@@ -49,7 +49,7 @@ export const Encryption = () => {
           <h3 className="text-lg font-bold text-white">
             Diploma in Computer Engineering
           </h3>
-          <p className="text-gray-300 text-sm mt-1">2021 – 2027</p>
+          <p className="text-gray-300 text-sm mt-1">2021 – 2024</p>
           <p className="text-gray-400 text-sm">
             Govt Polytechnic for Minorities
           </p>
