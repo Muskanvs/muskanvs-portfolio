@@ -8,6 +8,13 @@ import Certifications from "@/components/sub/Certifications";
 import { ContactSection } from "@/components/sub/contact";
 export default function Home() {
   const experiences = [
+      {
+    title: "Student Clan Leader",
+    company: "Technitude Info Solutions",
+    description:
+      "I serve as the link between TechnitudeInfo Solutions and JNTUA, handling communication, planning events, and driving active engagement between both sides.",
+    period: "2025 - present",
+  },
   {
     title: "Web Application Developer Intern",
     company: "MNP Solutions",
