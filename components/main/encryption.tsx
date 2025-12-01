@@ -32,7 +32,7 @@ export const Encryption = () => {
           <h3 className="text-lg font-bold text-white">
             B.Tech in Computer Science and Engineering
           </h3>
-          <p className="text-gray-300 text-sm mt-1">2024 – Present</p>
+          <p className="text-gray-300 text-sm mt-1">2024 – 2027</p>
           <p className="text-gray-400 text-sm">
             Jawaharlal Nehru Technological University
           </p>
